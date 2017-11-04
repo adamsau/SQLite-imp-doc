@@ -1,2 +1,2 @@
 # SQLite-imp-doc
-A documentation of the SQLite implementation for people who want to study
+A one page documentation of the SQLite implementation for beginners
